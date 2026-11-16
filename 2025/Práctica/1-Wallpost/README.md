@@ -8,12 +8,14 @@ Java 11+. Recomendamos usar algun JDK que sea open source y con licencia de uso 
 
 ## Run
 
-Para correr los tests: `../mvnw test`
+Requiere Maven instalado (la carpeta `.mvn/` del wrapper no está versionada, así que `mvnw` no alcanza por sí solo).
+
+Para correr los tests: `mvn test`
 
 Para correr la aplicación y mostrar la UI: 
 
 ```sh
-../mvnw clean package
+mvn clean package
 java -jar target/ejercicio1-wallpost-1.0.0-jar-with-dependencies.jar
 ```
 
