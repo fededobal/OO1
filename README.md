@@ -29,4 +29,4 @@ Cada carpeta es un proyecto Maven con el código en `src/main/java` y, en la may
 | Parcial | Clases principales | Extra |
 | --- | --- | --- |
 | [16/11/2024](2025/Parciales/Parcial_16-11-2024/) | `Programa`, `Evento` (presencial y virtual), `Entrada`, `Sede`, `Usuario` | — |
-| [5/11/2022](2025/Parciales/Parcial_5-11-2022/) | `ARBA`, `Contribuyente`, la interfaz `Bien` (`Inmueble` y `Vehiculo`: automotor y embarcación) | [UML](2025/Parciales/Parcial_5-11-2022/UML.png) |
+| [05/11/2022](2025/Parciales/Parcial_5-11-2022/) | `ARBA`, `Contribuyente`, la interfaz `Bien` (`Inmueble` y `Vehiculo`: automotor y embarcación) | [UML](2025/Parciales/Parcial_5-11-2022/UML.png) |
